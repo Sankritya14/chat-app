@@ -29,7 +29,7 @@ A simple real-time chat application built with **React**, **Node.js**, and **Soc
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/chat-app.git
+git clone https://github.com/Sankritya14/chat-app.git
 cd chat-app
 ```
 ## Install backend dependencies:
